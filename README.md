@@ -12,10 +12,12 @@ de chat sem servidor e em tempo real usando o Serviço do SignalR e o Functions.
 <hr></hr>      
       <h2>Clonar o aplicativo de exemplo</h2>
       Durante a implantação do serviço, vamos trabalhar com o código. <br>
-    1-Clone o aplicativo de exemplo do GitHub, defina a cadeia de conexão do SignalR Service e execute o aplicativo localmente. <br>
-        git clone https://github.com/Azure-Samples/signalr-service-quickstart-serverless-chat.git<br>
+    1-Clone o aplicativo de exemplo do GitHub. <br>
     2-Abra uma janela de terminal git. Mude para uma pasta em que deseja clonar o projeto de exemplo.<br>
     3-Execute o comando a seguir para clonar o repositório de exemplo. Este comando cria uma cópia do aplicativo de exemplo no seu computador.<br>
+    git clone https://github.com/Azure-Samples/signalr-service-quickstart-serverless-chat.git<br>
+    4-No terminal entre na pasta src/chat/javascript do repositório clonado, e execute um npm install.<br>
+    OBS: Lembre-se que o node precisa estar instalado e a versão precisa ser a versão 10 do node.<br>
         
         
 
