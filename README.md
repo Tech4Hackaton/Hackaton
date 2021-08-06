@@ -1,4 +1,17 @@
-# Hackaton
+<h1 align="center">Tech4Hack</h1>
+## Introdução
+Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um desafio nos seguintes segmentos.
+<ol>
+    <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
+    <li>Criação de uma página para simulação de um chat.( React )</li>
+    <li>Trocar mensagens( Websocket SingnalR )</li>
+    <li>Banco Postgres para salvar (user, SignalR, requests de api)</li>
+    <li>Api da GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>)</li>
+    <h3>Desafios Opcionais</h3>
+    <li>Fazer a conexão por usuario</li>
+    <li>Utilizar A GOTIT de maneira inventiva</li>
+</ol>
+    
 ## Início Rápido:
 Usar o JavaScript para criar uma sala de chat com o Azure Functions e o Serviço do SignalR
 O Serviço do Azure SignalR permite que você adicione funcionalidades em tempo real ao seu aplicativo com 
@@ -37,7 +50,7 @@ func start
 <h2>Executar o aplicativo Web</h2>
 Para simplificar o teste do cliente, abra o navegador para o nosso aplicativo Web de página única de amostra https://azure-samples.github.io/signalr-service-quickstart-serverless-chat/demo/chat-v2/ .<br>
 <h3>Observação</h3>
-A origem do arquivo HTML está localizada em /docs/demo/chat-v2/index.html. E, se você desejar hospedar o HTML por conta própria, inicie um servidor HTTP local, como http-server no diretório /docs/demo/chat-v2. 
+A origem do arquivo HTML está localizada em /docs/chat-v2/index.html. 
 <br>Verifique se a origem foi adicionada para a configuração CORS em local.settings.json semelhante à amostra.<br>
 
     "Host": {
