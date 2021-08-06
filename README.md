@@ -15,9 +15,10 @@ de chat sem servidor e em tempo real usando o Serviço do SignalR e o Functions.
     1-Clone o aplicativo de exemplo do GitHub. <br>
     2-Abra uma janela de terminal git. Mude para uma pasta em que deseja clonar o projeto de exemplo.<br>
     3-Execute o comando a seguir para clonar o repositório de exemplo. Este comando cria uma cópia do aplicativo de exemplo no seu computador.<br>
-    git clone https://github.com/Azure-Samples/signalr-service-quickstart-serverless-chat.git<br>
+    git clone https://github.com/Tech4Hackaton/Hackaton.git<br>
     4-No terminal entre na pasta src/chat/javascript do repositório clonado, e execute um npm install.<br>
     OBS: Lembre-se que o node precisa estar instalado e a versão precisa ser a versão 10 do node.<br>
+    ![image](https://user-images.githubusercontent.com/88547782/128530210-bd01fded-46b7-4971-8ff4-88b4aeb630ec.png)
         
         
 
