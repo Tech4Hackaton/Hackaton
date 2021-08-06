@@ -1,6 +1,8 @@
 <h1 align="center">Tech4Hack</h1>
+
 ## Introdução
-Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um desafio nos seguintes segmentos.
+Sejam Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um desafio nos seguintes segmentos.
+
 <ol>
     <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
     <li>Criação de uma página para simulação de um chat.( React )</li>
