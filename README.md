@@ -2,16 +2,19 @@
 
 ## Introdução
 Sejam Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um desafio nos seguintes segmentos.
+## Desafio
+O desafio deverá ser hospedado em um repositório do github, e deverá conter um arquivo Readme explicando o que
+foi feito, como rodar a aplicação, qual a funcionalidade do NLU GOTIT na aplicação. O link do projeto do github
+deverá ser enviado para o seguinte email: tech4hackaton@gmail.com 
 
 <ol>
     <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
     <li>Criação de uma página para simulação de um chat.( React )</li>
-    <li>Trocar mensagens( Websocket SingnalR )</li>
-    <li>Banco Postgres para salvar (user, SignalR, requests de api)</li>
-    <li>Api da GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>)</li>
+    <li>Banco Postgres para salvar (user(opcional), mensagens, requests de Api do GotIT, a critério do participante)</li>
+    <li>Api de análise de <b>sentimento</b> GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>). O que é -> Fazer com que as máquinas compreendam o sentimento envolvido na linguagem natural foi um dos problemas mais difíceis da inteligência artificial até hoje. Usando a nossa API você tem acesso imediato a anos de desenvolvimento de ponta para fazer a máquina compreender cada nuance do contexto e assim estar apta a extrair com precisão as emoções e sentimentos envolvidos em uma sentença.</li>
     <h3>Desafios Opcionais</h3>
     <li>Fazer a conexão por usuario</li>
-    <li>Utilizar A GOTIT de maneira inventiva</li>
+    <li>Utilizar A API GOTIT de maneira inventiva</li>
 </ol>
     
 ## Início Rápido:
