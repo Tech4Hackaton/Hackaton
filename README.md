@@ -5,7 +5,7 @@ Sejam Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um 
 ## Desafio
 O desafio deverá ser hospedado em um repositório do github, e deverá conter um arquivo Readme explicando o que
 foi feito, como rodar a aplicação, qual a funcionalidade do NLU GOTIT na aplicação. O link do projeto do github
-deverá ser enviado para o seguinte email: tech4hackaton@gmail.com 
+deverá ser enviado para o seguinte email: tech4hackaton@gmail.com até as <b>19 horas do dia 14 de agosto</b>.
 
 <ol>
     <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
