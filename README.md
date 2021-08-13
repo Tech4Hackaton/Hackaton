@@ -1,20 +1,48 @@
 <h1 align="center">Tech4Hack</h1>
 
 ## Introdução
+
 Sejam Bem vindos ao Hackaton da tech4humans. Nesta Hackaton vai ser proposto um desafio nos seguintes segmentos.
-## Desafio
-O desafio deverá ser hospedado em um repositório do github, e deverá conter um arquivo Readme explicando o que
-foi feito, como rodar a aplicação, qual a funcionalidade do NLU GOTIT na aplicação. O link do projeto do github
-deverá ser enviado para o seguinte email: tech4hackaton@gmail.com até as <b>19 horas do dia 14 de agosto</b>.
+
+## Entrega
+
+O desafio deverá ser hospedado em um repositório do Github, e deverá conter um arquivo Readme contendo:
+<ul>
+    <li>O que foi feito como aplicação</li>
+    <li>Objetivo de uso da API do GOTIT</li>
+    <li>Como instalar a aplicação com suas devidas configurações</li>
+    <li>Como instalar o banco de dados</li>
+    <li>Como executar</li>
+    <li>Como utilizar</li>
+</ul>
+
+Este link do Github deverá ser enviado através de um formulário que será informado pela organização.
+
+## Preparação
 
 <ol>
     <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
     <li>Criação de uma página para simulação de um chat.( React )</li>
-    <li>Banco Postgres para salvar (user(opcional), mensagens, requests de Api do GotIT, a critério do participante)</li>
-    <li>Api de análise de <b>sentimento</b> GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>). O que é -> Fazer com que as máquinas compreendam o sentimento envolvido na linguagem natural foi um dos problemas mais difíceis da inteligência artificial até hoje. Usando a nossa API você tem acesso imediato a anos de desenvolvimento de ponta para fazer a máquina compreender cada nuance do contexto e assim estar apta a extrair com precisão as emoções e sentimentos envolvidos em uma sentença.</li>
-    <h3>Desafios Opcionais</h3>
-    <li>Fazer a conexão por usuario</li>
-    <li>Utilizar A API GOTIT de maneira inventiva</li>
+    <li>Banco Postgres para salvar o que o participante achar necessário. (Organização e utilidade das informações serão análisados)</li>
+    <li>Utilizar a Api de análise de <b>sentimento</b> GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>) para análise das mensagens enviadas.
+        <h2>O que é?</h2>
+        <p>APIs de análises de sentimento são capazes de analisar texto e identificar o sentimento que a pessoa está tentando passar naquele momento através de uma escala decimal de -1 a 1.</p>
+        <p>Sendo:</p>
+        <ul>
+            <li>-1 um sentimento muito negativo</li>
+            <li>1 um sentimento muito positivo</li>
+        <ul/>
+        <br />
+        <img src="https://d33wubrfki0l68.cloudfront.net/b22426b0bcb4a45e762a51a51cca5af3022bc054/f9a94/static/3db9023a9e1bf7804afb45fca7a4bec9/12fd3/sentiment-analysis-api.png"/>
+    </li>
+</ol>
+
+## Desafio
+
+Realizar os itens abaixo
+<ol>
+    <li>Realizar troca de mensagens pelo SignalR no modelo "um pra um" e não broadcast. Manter o broadcast é opcional, mas criatividade no seu uso será contabilizado</li>
+    <li>Utilizar A API do GOTIT de maneira criativa e útil</li>
 </ol>
     
 ## Início Rápido:
