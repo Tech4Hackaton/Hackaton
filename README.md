@@ -21,8 +21,8 @@ Este link do Github deverá ser enviado através de um formulário que será inf
 ## Preparação
 
 <ol>
-    <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento</li>
-    <li>Criação de uma página para simulação de um chat.( React )</li>
+    <li>Seguir os passos do tutorial para estabelecer um ambiente inicial de desenvolvimento utilizando o SignalR<br /><img src="https://miro.medium.com/max/660/1*DIL4N-vk3D8VjoeRZ-WHIw.png"/></li>
+    <li>Criação de uma página para simulação de um chat em REACT.</li>
     <li>Banco Postgres para salvar o que o participante achar necessário. (Organização e utilidade das informações serão análisados)</li>
     <li>Utilizar a Api de análise de <b>sentimento</b> GoTIT de NLU(<a href="https://www.gotit.ai/">GOT</a>) para análise das mensagens enviadas.
         <h2>O que é?</h2>
